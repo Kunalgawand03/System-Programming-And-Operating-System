@@ -75,7 +75,6 @@ Explore Memory Management techniques and Deadlock Avoidance.
 
 Gain practical knowledge of System-Level Programming and OS Internals.
 
-👨‍💻 Author
-Kunal Gawand
+👨‍💻 Author:Kunal Gawand
 📅 Created on: November 2025
 🏫 For Academic Use – SPOS Laboratory
